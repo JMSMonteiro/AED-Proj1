@@ -1,5 +1,4 @@
 #@source: https://github.com/recluze/python-avl-tree/blob/master/simple_avl.py
-
 outputdebug = False 
 
 def debug(msg):
