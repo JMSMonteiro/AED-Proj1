@@ -1,6 +1,6 @@
 import stacks as stacks
 import doubleLinkedLists as dll
-import AVL_Sopas as AVL
+import AVL_Func as AVL
 
 
 def inputInt(string):
